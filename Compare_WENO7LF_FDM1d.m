@@ -15,9 +15,10 @@
 %            preserving weighted essentially non-oscillatory schemes with
 %            increasingly high order of accuracy." Journal of Computational
 %            Physics 160.2 (2000): 405-452. 
-% [WENO5-Z ] Shen, Yiqing, and Gecheng Zha. "Improved seventh-order WENO
-%            scheme." 48th AIAA Aerospace Sciences Meeting Including the
-%            New Horizons Forum and Aerospace Exposition. 2010. 
+% [WENO5-Z ] Castro, Marcos, Bruno Costa, and Wai Sun Don. "High order
+%            weighted essentially non-oscillatory WENO-Z schemes for
+%            hyperbolic conservation laws." Journal of Computational
+%            Physics 230.5 (2011): 1766-1792.   
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 % Notes: Conservative finite difference implementations of the method of
 % lines (MOL) using WENO7 associated with SSP-RK33 time integration method. 
